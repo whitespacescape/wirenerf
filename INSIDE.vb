@@ -1,1 +1,3 @@
-
+Interface
+   Async 
+End Interface
